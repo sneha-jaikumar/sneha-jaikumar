@@ -2,7 +2,7 @@
 
 I build software that helps machines see, understand, and move in the physical world.
 
-Most recently at **AWS**, I built a pipeline that turns an ordinary phone video of a person into motion a Unitree G1 humanoid* can perform. Before that, I spent two summers on the Apple Vision Pro, building features that respond in real time to a person's attention and physiological signals.
+Most recently at **AWS**, I built a pipeline that turns an ordinary phone video of a person into motion a Unitree G1 humanoid can perform. Before that, I spent two summers on the Apple Vision Pro, building features that respond in real time to a person's attention and physiological signals.
 
 I'm finishing my M.S. in Data Science at Columbia (December 2026) and looking for full-time roles in **robotics, embodied AI, and applied ML/AI**.
 
@@ -20,7 +20,7 @@ Turns a single room photo into a photorealistic furnished design with real, purc
 ### [Neural Signal Processing Pipeline](https://github.com/SNF-Center-for-Precision-Psychiarty/Electrophysiology-analysis-for-Intrinsic-properties) · Columbia
 A from-scratch pipeline that automates hours of manual analysis of human neuron recordings: artifact rejection, spike detection, and 43+ features extracted from million-sample time-series data.
 
-### Text-to-Image Diffusion Model (GLIDE-inspired)
+### [Text-to-Image Diffusion Model (GLIDE-inspired)](https://docs.google.com/document/d/16de9RqK3y0rQ6_g4TJtvDnsirfZYEEIxP0sifBG_BLg/edit?usp=sharing)
 A scaled-down text-conditional diffusion model that generates images from written prompts, built from the ground up.
 
 <details>
