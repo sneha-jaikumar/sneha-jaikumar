@@ -37,8 +37,11 @@ A scaled-down text-conditional diffusion model that generates images from writte
 ## 🛠️ Tools I work with
 
 **Robotics & simulation:** MuJoCo · Isaac Lab · NVIDIA GR00T / SONIC · inverse kinematics · motion retargeting
+
 **Vision & ML:** PyTorch · SAM · Depth Anything · pose estimation · diffusion models · Hugging Face
+
 **Spatial computing:** Swift · SwiftUI · visionOS
+
 **Infrastructure:** Python · AWS (EC2, S3, SageMaker, Bedrock, Step Functions, CDK, CloudFormation)
 
 ---
